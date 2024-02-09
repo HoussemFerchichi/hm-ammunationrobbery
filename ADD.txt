@@ -1,0 +1,8 @@
+---Created By Houssem---
+
+	["smgbody"]				= {["name"] = "smgbody",				["label"] = "Smg Body",				["weight"] = 50,	["type"] = "item",	["image"] = "smgbody.png",					["unique"] = false,	["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "An Smg Body "},
+	["smggrip"]				= {["name"] = "smggrip",				["label"] = "Smg Grip",				["weight"] = 50,	["type"] = "item",	["image"] = "smggrip.png",					["unique"] = false,	["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "An Smg Grip "},
+	["smgmagazine"]				= {["name"] = "smgmagazine",				["label"] = "Smg Magazine",				["weight"] = 50,	["type"] = "item",	["image"] = "smgmagazine.png",					["unique"] = false,	["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "An Smg Magazine "},
+	["pistolbody"]				= {["name"] = "pistolbody",				["label"] = "Pistol Body",				["weight"] = 50,	["type"] = "item",	["image"] = "pistolbody.png",					["unique"] = false,	["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "A Pistol Body "},
+	["pistolgrip"]				= {["name"] = "pistolgrip",				["label"] = "Pistol Grip",				["weight"] = 50,	["type"] = "item",	["image"] = "pistolgrip.png",					["unique"] = false,	["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "A Pistol Grip"},
+	["pistolmagazine"]				= {["name"] = "pistolmagazine",				["label"] = "Pistol Magazine",				["weight"] = 50,	["type"] = "item",	["image"] = "pistolmagazine.png",					["unique"] = false,	["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "A Pistol Magazine "},
